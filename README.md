@@ -1,4 +1,5 @@
 ### Hi everyone, I'm Rafael Matos 👋
+Software Engineer in Test, passionate about software quality, musician, father of a girl and fan of good reading, travel and adventures in nature.
 
  <div>
   <a href="https://github.com/rafaelmatosqa">
