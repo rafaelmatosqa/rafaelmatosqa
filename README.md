@@ -1,5 +1,5 @@
-### Hi everyone, I'm Rafael Matos 👋
-Software Engineer in Test, passionate about software quality, musician, father of a girl and fan of good reading, travel and adventures in nature.
+### Olá, sou Rafael Matos! 👋
+👋Quality Engineer apaixonado por engenharia de software e entusiasta dos processos automatizados. Quando não estou mergulhado em códigos e testes, estou explorando novos lugares, aproveitando momentos preciosos com minha filha ou mergulhando em livros sobre os mais diversos temas. 💻✨🌍📚
 
  <div>
   <a href="https://github.com/rafaelmatosqa">
